@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "znDPo0RqFTA+3jVb2Dkyn39eTms+r9itxC4myJodgK8=",
+  "Source": "ASPA002_2",
+  "BasePath": "_content/ASPA002_2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASPA002_2\\wwwroot",
+      "Source": "ASPA002_2",
+      "ContentRoot": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\wwwroot\\",
+      "BasePath": "_content/ASPA002_2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\wwwroot\\css\\index.css",
+      "SourceId": "ASPA002_2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\wwwroot\\",
+      "BasePath": "_content/ASPA002_2",
+      "RelativePath": "css/index#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "za9fzuxmd9",
+      "Integrity": "26cmgMBLekN31HKMXagbZCuKUEkWi2ANb8HQ4q808Xk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index.css"
+    },
+    {
+      "Identity": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\wwwroot\\js\\Calc.js",
+      "SourceId": "ASPA002_2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\wwwroot\\",
+      "BasePath": "_content/ASPA002_2",
+      "RelativePath": "js/Calc#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5s825ki4xe",
+      "Integrity": "9a03E4XgHa8INswneeIj/63jOOPXTBCzVRmXR3C0G0M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Calc.js"
+    },
+    {
+      "Identity": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\wwwroot\\Neumann.html",
+      "SourceId": "ASPA002_2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\wwwroot\\",
+      "BasePath": "_content/ASPA002_2",
+      "RelativePath": "Neumann#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6erz6l1k6j",
+      "Integrity": "br/wapzNIpNrDH+4dawwPg6XSx6D/MnwRzZ437oRsk8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Neumann.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/index.css",
+      "AssetFile": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"26cmgMBLekN31HKMXagbZCuKUEkWi2ANb8HQ4q808Xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-26cmgMBLekN31HKMXagbZCuKUEkWi2ANb8HQ4q808Xk="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.za9fzuxmd9.css",
+      "AssetFile": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"26cmgMBLekN31HKMXagbZCuKUEkWi2ANb8HQ4q808Xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "za9fzuxmd9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-26cmgMBLekN31HKMXagbZCuKUEkWi2ANb8HQ4q808Xk="
+        }
+      ]
+    },
+    {
+      "Route": "js/Calc.5s825ki4xe.js",
+      "AssetFile": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\wwwroot\\js\\Calc.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9a03E4XgHa8INswneeIj/63jOOPXTBCzVRmXR3C0G0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:21:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5s825ki4xe"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Calc.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9a03E4XgHa8INswneeIj/63jOOPXTBCzVRmXR3C0G0M="
+        }
+      ]
+    },
+    {
+      "Route": "js/Calc.js",
+      "AssetFile": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\wwwroot\\js\\Calc.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9a03E4XgHa8INswneeIj/63jOOPXTBCzVRmXR3C0G0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:21:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9a03E4XgHa8INswneeIj/63jOOPXTBCzVRmXR3C0G0M="
+        }
+      ]
+    },
+    {
+      "Route": "Neumann.6erz6l1k6j.html",
+      "AssetFile": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\wwwroot\\Neumann.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"br/wapzNIpNrDH+4dawwPg6XSx6D/MnwRzZ437oRsk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:49:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6erz6l1k6j"
+        },
+        {
+          "Name": "label",
+          "Value": "Neumann.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-br/wapzNIpNrDH+4dawwPg6XSx6D/MnwRzZ437oRsk8="
+        }
+      ]
+    },
+    {
+      "Route": "Neumann.html",
+      "AssetFile": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\wwwroot\\Neumann.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"br/wapzNIpNrDH+4dawwPg6XSx6D/MnwRzZ437oRsk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:49:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-br/wapzNIpNrDH+4dawwPg6XSx6D/MnwRzZ437oRsk8="
+        }
+      ]
+    }
+  ]
+}
