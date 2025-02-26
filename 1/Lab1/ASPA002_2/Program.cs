@@ -15,7 +15,9 @@ internal class Program
 
         var staticFileOpt = new StaticFileOptions();
         staticFileOpt.FileProvider = new PhysicalFileProvider(Path.Combine(builder.Environment.ContentRootPath, "Picture"));
-        staticFileOpt.RequestPath = "/jora";
+        staticFileOpt.RequestPath = "/ww";
+
+        app.UseStaticFiles(staticFileOpt);
 
         app.Run();
     }

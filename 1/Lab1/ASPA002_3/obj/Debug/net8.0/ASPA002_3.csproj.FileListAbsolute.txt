@@ -27,3 +27,4 @@ D:\6sem\TDWA\1\Lab1\ASPA002_3\obj\Debug\net8.0\refint\ASPA002_3.dll
 D:\6sem\TDWA\1\Lab1\ASPA002_3\obj\Debug\net8.0\ASPA002_3.pdb
 D:\6sem\TDWA\1\Lab1\ASPA002_3\obj\Debug\net8.0\ASPA002_3.genruntimeconfig.cache
 D:\6sem\TDWA\1\Lab1\ASPA002_3\obj\Debug\net8.0\ref\ASPA002_3.dll
+D:\6sem\TDWA\1\Lab1\ASPA002_3\obj\Debug\net8.0\ASPA002_3.sourcelink.json

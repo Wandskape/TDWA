@@ -28,3 +28,4 @@ D:\6sem\TDWA\1\Lab1\ASPA002_1\obj\Debug\net8.0\ASPA002_1.pdb
 D:\6sem\TDWA\1\Lab1\ASPA002_1\obj\Debug\net8.0\ASPA002_1.genruntimeconfig.cache
 D:\6sem\TDWA\1\Lab1\ASPA002_1\obj\Debug\net8.0\ref\ASPA002_1.dll
 D:\6sem\TDWA\1\Lab1\ASPA002_1\bin\Debug\net8.0\ASPA002_1.staticwebassets.runtime.json
+D:\6sem\TDWA\1\Lab1\ASPA002_1\obj\Debug\net8.0\ASPA002_1.sourcelink.json

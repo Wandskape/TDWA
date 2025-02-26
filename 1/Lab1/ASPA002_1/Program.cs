@@ -6,7 +6,7 @@ internal class Program
         var app = builder.Build();
 
         app.UseWelcomePage("/aspnetcore");
-        app.MapGet("/", ()=>"");
+        app.MapGet("/aspnetcore", ()=>"");
         app.UseDefaultFiles();
         app.UseStaticFiles();
         app.Run();

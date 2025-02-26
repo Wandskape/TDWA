@@ -11,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{1122520A-752E-4009-B423-693BF66E7B78}|ASPA002_2\\ASPA002_2.csproj|solutionrelative:aspa002_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3919B710-824D-44F9-A0BD-07D0501C9F2F}|ASPA002_1\\ASPA002_1.csproj|d:\\6sem\\tdwa\\1\\lab1\\aspa002_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3919B710-824D-44F9-A0BD-07D0501C9F2F}|ASPA002_1\\ASPA002_1.csproj|solutionrelative:aspa002_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1122520A-752E-4009-B423-693BF66E7B78}|ASPA002_2\\ASPA002_2.csproj|d:\\6sem\\tdwa\\1\\lab1\\aspa002_2\\wwwroot\\neumann.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1122520A-752E-4009-B423-693BF66E7B78}|ASPA002_2\\ASPA002_2.csproj|solutionrelative:aspa002_2\\wwwroot\\neumann.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\Program.cs",
-              "RelativeDocumentMoniker": "ASPA002_2\\Program.cs",
-              "ToolTip": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\Program.cs",
-              "RelativeToolTip": "ASPA002_2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T08:23:17.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_1\\Program.cs",
-              "RelativeDocumentMoniker": "ASPA002_1\\Program.cs",
-              "ToolTip": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_1\\Program.cs",
-              "RelativeToolTip": "ASPA002_1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T08:15:44.889Z",
+              "Title": "Neumann.html",
+              "DocumentMoniker": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\wwwroot\\Neumann.html",
+              "RelativeDocumentMoniker": "ASPA002_2\\wwwroot\\Neumann.html",
+              "ToolTip": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\wwwroot\\Neumann.html",
+              "RelativeToolTip": "ASPA002_2\\wwwroot\\Neumann.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-25T09:00:45.268Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -58,9 +46,22 @@
               "RelativeDocumentMoniker": "ASPA002_3\\Program.cs",
               "ToolTip": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_3\\Program.cs",
               "RelativeToolTip": "ASPA002_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T08:09:16.51Z",
+              "WhenOpened": "2025-02-25T09:45:47.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA002_2\\Program.cs",
+              "ToolTip": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_2\\Program.cs",
+              "RelativeToolTip": "ASPA002_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:44:45.281Z",
               "EditorCaption": ""
             }
           ]

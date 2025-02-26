@@ -5,12 +5,12 @@
       "PackagePath": "staticwebassets\\Index.html"
     },
     {
-      "Id": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_1\\wwwroot\\Neumann.jpg",
-      "PackagePath": "staticwebassets\\Neumann.jpg"
-    },
-    {
       "Id": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_1\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_1\\wwwroot\\jpg\\Neumann.jpg",
+      "PackagePath": "staticwebassets\\jpg\\Neumann.jpg"
     },
     {
       "Id": "D:\\6sem\\TDWA\\1\\Lab1\\ASPA002_1\\wwwroot\\js\\Calc.js",
