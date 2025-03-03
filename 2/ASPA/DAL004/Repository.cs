@@ -102,7 +102,7 @@ namespace DAL004
                 }
             }
             _celebrities = newArray;
-            return celebrity.Id;
+            return newCelebrity.Id;
         }
 
         public int SaveChanges()
