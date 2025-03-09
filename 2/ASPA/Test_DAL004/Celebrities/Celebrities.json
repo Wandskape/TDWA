@@ -1,27 +1,39 @@
 [
   {
+    "Id": 1,
+    "Firstname": "Noam",
+    "Surname": "Chomsky",
+    "PhotoPath": "/Photo/Chomsky.jpg"
+  },
+  {
+    "Id": 2,
+    "Firstname": "Tim",
+    "Surname": "Berners-Lee",
+    "PhotoPath": "/Photo/Berners-Lee.jpg"
+  },
+  {
+    "Id": 3,
+    "Firstname": "Edgar",
+    "Surname": "Codd",
+    "PhotoPath": "/Photo/Codd.jpg"
+  },
+  {
     "Id": 9,
     "Firstname": "Jane",
     "Surname": "Smith",
     "PhotoPath": "/path/to/new_photo.jpg"
   },
   {
-    "Id": 3,
-    "Firstname": "Charlse",
-    "Surname": "Babbage",
-    "PhotoPath": "/Photo/Lovelace.jpg"
-  },
-  {
     "Id": 6,
-    "Firstname": "Charlse1",
-    "Surname": "Babbage",
-    "PhotoPath": "/Photo/Lovelace.jpg"
+    "Firstname": "John",
+    "Surname": "Neumann",
+    "PhotoPath": "/Photo/Neumann.jpg"
   },
   {
     "Id": 7,
-    "Firstname": "John",
-    "Surname": "Doe",
-    "PhotoPath": "/path/to/photo.jpg"
+    "Firstname": "Edsger",
+    "Surname": "Dijkstra",
+    "PhotoPath": "/Photo/Dijkstra.jpg"
   },
   {
     "Id": 8,

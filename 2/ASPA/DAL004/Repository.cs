@@ -14,6 +14,7 @@ namespace DAL004
         private Celebrity[] _celebrities;
         private Celebrity[] _originalCelebrities;
         private int _currentCelebritiesID;
+        private int changesCount = 0;
 
         public Repository(string basePath)
         {
@@ -57,7 +58,7 @@ namespace DAL004
 
             _celebrities = newArray;
             _currentCelebritiesID++;
-
+            changesCount++;
             return newCelebrity.Id;
         }
 
@@ -80,6 +81,7 @@ namespace DAL004
             }
 
             _celebrities = newArray;
+            changesCount++;
             return true;
         }
 
@@ -102,28 +104,21 @@ namespace DAL004
                 }
             }
             _celebrities = newArray;
+            changesCount++;
             return newCelebrity.Id;
         }
 
         public int SaveChanges()
         {
-            int changesCount = 0;
+            int LocalChangesCount = changesCount;
 
             var jsonFilePath = Path.Combine(BasePath, JSONFileName);
             var newCelebritiesJson = JsonConvert.SerializeObject(_celebrities, Formatting.Indented);
             File.WriteAllText(jsonFilePath, newCelebritiesJson);
 
-            for (int i = 0; i < _celebrities.Length; i++)
-            {
-                if (i >= _originalCelebrities.Length || !_celebrities[i].Equals(_originalCelebrities[i]))
-                {
-                    changesCount++;
-                }
-            }
-
             _originalCelebrities = (Celebrity[])_celebrities.Clone();
-
-            return changesCount;
+            changesCount = 0;
+            return LocalChangesCount;
         }
 
 
